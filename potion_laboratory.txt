@@ -1,0 +1,16 @@
+Potion Laboratory
+ 
+Bubbling cauldrons and shelves of colorful vials fill this room with strange aromas and faint hissing sounds. A layer of dust covers most surfaces, except for a table with fresh scorch marks and an open spellbook. The air hums with magical energy, as if the experiments here never truly ended.
+ 
+Potion
+Diamond
+Gold
+Silver
+Bronze
+Mirror
+Phoenix
+Gun
+Bow
+Sword
+Shield
+Gemstone

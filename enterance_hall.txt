@@ -1,0 +1,14 @@
+Enterance Hall
+ 
+A vast, dimly lit chamber with towering stone arches, echoing the sounds of distant footsteps. The air is heavy with dust and the faint whispers of past adventurers. A faint glow marks the paths leading deeper into the dungeon.
+ 
+Sword
+Gold
+Potion
+Book
+Glasses
+Helmet
+Rope
+Steel
+Gemstone
+Silver

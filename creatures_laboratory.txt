@@ -1,0 +1,7 @@
+Goblin
+Zombie
+Troll
+Dragon
+Barbarian
+Spider
+Warrior

@@ -1,0 +1,14 @@
+Guardroom
+ 
+Worn armor and rusting weapons hang on racks, hinting at the presence of once-vigilant defenders. A small table in the corner holds scattered playing cards and a half-empty flask, as if the guards abandoned their post in a hurry. A faint creak in the shadows suggests you may not be alone.
+ 
+Shield
+Mirror
+Rope
+Wood
+Silver
+Steel
+Bow
+Helmet
+Gold
+Bronze

@@ -1,0 +1,4 @@
+Spider
+Warrior
+Troll
+Goblin

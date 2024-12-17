@@ -1,0 +1,14 @@
+Arena
+ 
+A circular battleground enclosed by towering stone walls, scarred from countless battles. Bloodstains and shattered weapons litter the floor, whispering of fierce duels and fallen warriors. A faint, rhythmic drumming fills the air, as if the room itself anticipates another fight.
+ 
+Bow
+Glasses
+Diamond
+Wood
+Trophy
+Sword
+Potion
+Rope
+Gold
+Silver

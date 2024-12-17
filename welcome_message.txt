@@ -1,0 +1,5 @@
+Welcome to The Dungeon Game!
+The goal of the game is to defeat all of the creatures.
+There are 9 rooms in total and each room contains different number of creatures.
+You can also collect different items,equip weapons and manage your inventory.
+You can sell and buy things as well.
