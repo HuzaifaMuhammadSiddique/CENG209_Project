@@ -3,10 +3,10 @@ CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -D_GNU_SOURCE
 
 # Target executable
-TARGET = check.exe
+TARGET = main.exe
 
 # Source files
-SRC = check.c
+SRC = main.c
 
 # Object files
 OBJ = $(SRC:.c=.o)
