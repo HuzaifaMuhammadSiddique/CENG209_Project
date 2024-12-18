@@ -1,10 +1,1 @@
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\three.txt
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\four.txt
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\game1.txt
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\game2
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\game3.txt
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\game4.txt
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\game5.txt
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\game6.txt
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\game7.txt
-C:\Users\ASUS\OneDrive\Desktop\3rd Semester\CENG209 - Systems Programming\Project\games\game8.txt
+
